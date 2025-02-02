@@ -1,4 +1,4 @@
-const {Brand, Type} = require('../models/models');
+const {Brand} = require('../models/models');
 
 class BrandController {
     async create(req, res) {
