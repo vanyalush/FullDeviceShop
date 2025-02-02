@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f59a8e01-cd14-4c97-97de-c0daecb9a4e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/BrandBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BrandBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/DeviceItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/DeviceItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/DeviceList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/DeviceList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Find.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Find.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/TypeBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/TypeBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/Auth.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/Auth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/BrandBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/BrandBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/DeviceItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/DeviceItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/DeviceList.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/DeviceList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/DevicePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/DevicePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/Find.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/Find.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/NavBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/NavBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/styles/TypeBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/styles/TypeBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/DevicePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/DevicePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/Shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Shop.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qfJP7msGjsTJXNNoHdwFX4kebL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.UserStore.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.authMiddleware.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.checkRoleMiddleware.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.11.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.10.2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/documents/online store/client/src/components/modals&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\documents\online store\client\src\components\modals" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\documents\online store\client\src\components\styles" />
+      <recent name="C:\documents\online store\client" />
+      <recent name="C:\documents\online store\client\src\assets" />
+      <recent name="C:\documents\online store\client\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f59a8e01-cd14-4c97-97de-c0daecb9a4e3" name="Changes" comment="" />
+      <created>1735047668957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735047668957</updated>
+      <workItem from="1735047670154" duration="30553000" />
+      <workItem from="1735307089672" duration="5008000" />
+      <workItem from="1735312582626" duration="6875000" />
+      <workItem from="1735331020889" duration="192000" />
+      <workItem from="1735372367531" duration="4632000" />
+      <workItem from="1735411017519" duration="734000" />
+      <workItem from="1735411798177" duration="8974000" />
+      <workItem from="1735547381277" duration="2821000" />
+      <workItem from="1735589925272" duration="2966000" />
+      <workItem from="1736333711159" duration="2416000" />
+      <workItem from="1736587798684" duration="11266000" />
+      <workItem from="1736701247203" duration="8586000" />
+      <workItem from="1736763703226" duration="4378000" />
+      <workItem from="1736850512628" duration="21000" />
+      <workItem from="1736851934755" duration="284000" />
+      <workItem from="1736853390808" duration="127000" />
+      <workItem from="1736854563462" duration="6633000" />
+      <workItem from="1736929703320" duration="3418000" />
+      <workItem from="1736933311755" duration="6080000" />
+      <workItem from="1736941143602" duration="8025000" />
+      <workItem from="1737031376027" duration="2587000" />
+      <workItem from="1737274877903" duration="15801000" />
+      <workItem from="1737356401204" duration="7420000" />
+      <workItem from="1737640420880" duration="1117000" />
+      <workItem from="1737982951392" duration="7488000" />
+      <workItem from="1738143041339" duration="146000" />
+      <workItem from="1738246880400" duration="162000" />
+      <workItem from="1738247489527" duration="4529000" />
+      <workItem from="1738329698117" duration="15124000" />
+      <workItem from="1738483657969" duration="3878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.list" />
+  </component>
+</project>
