@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+.devicePage{
+    margin-top: 3vh;
+    max-width: 140vh;
+}
+
+.deviceCol{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 0.5px solid gray;
+    box-shadow:0 1px 2px #0000001a;
+    border-radius: 20px;
+    max-width: 350px;
+    height: 400px;
+}
+
+.infoCol{
+    margin-left: 4vh;
+    border: 1px solid black;
+    width: 88vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rating{
+    margin-top: 4vh;
+    margin-left: 30vh;
+    border: 1px solid black;
+}
+
+.cardPrice{
+    margin-top: 5vh;
+    width: 60%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.btnBuyLike{
+    margin-top: 5vh;
+    margin-left: 30vh;
+}

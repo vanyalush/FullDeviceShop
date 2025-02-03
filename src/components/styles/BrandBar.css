@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.brandCont{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1vh;
+    margin-left: 1vh;
+
+    max-width: 100vh;
+    max-height: 40vh;
+
+    font-size: 17px;
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: 700;
+}
+
+.card{
+    padding: 6px 6px;
+    margin: 0 10px;
+    cursor: pointer;
+    background-color: transparent;
+
+}
+.card:hover{
+    color: #4c4c4c;
+}
